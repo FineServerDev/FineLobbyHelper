@@ -1,0 +1,17 @@
+name: FineLobbyHelper
+version: '1.0-SNAPSHOT'
+main: eu.ifine.fine.Fine
+api-version: 1.19
+authors: [ FineDev ]
+description: FinePlugins
+
+commands:
+  transfer:
+    description: Transfer a Bedrock player
+    permission: fine.transfer
+
+permissions:
+  fine.transfer:
+    default: true
+
+depend: [PlaceholderAPI]

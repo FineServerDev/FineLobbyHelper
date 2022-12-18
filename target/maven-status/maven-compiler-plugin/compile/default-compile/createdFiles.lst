@@ -1,0 +1,6 @@
+eu\ifine\fine\common\MotdHandler.class
+eu\ifine\fine\common\TransferPacketBuilder.class
+eu\ifine\fine\Fine.class
+eu\ifine\fine\common\FloodgateHandler.class
+eu\ifine\fine\papi\ServerMotd.class
+eu\ifine\fine\commands\TransferCommand.class
